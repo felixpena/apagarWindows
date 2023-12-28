@@ -1,0 +1,1 @@
+este programita apaga el pc, como se corre: guardalo en tu pc, ve a la carpeta donde se encuentra por medio de la linea comando, y escribe: py apagar.py  te pedira que escribas el tiempo,  puedes poner dtype float, por ejemplo 1 se apaga en 1 hora,  tambien puede ser 1.5, se apaga en 1 hora y media.
